@@ -16,15 +16,12 @@ const About = () => {
         Mi nombre es Fiorella Frini, tengo 31 años, naci en Cordoba y vivo en
         Santiago del Estero, Argentina.
         <img src={thalita} alt="img" className={styles.thalita}></img>
-
         <br></br>
         <br></br>
-
         💻Actualmente estoy apostando al mundo IT para poder cumplir mi sueño de
         viajar y conocer el mundo utilizando de puente la union de los sueños y
         la tecnologia!🌎
         <br></br>
-
         <br></br>
         🌳Además de la tecnología... mi pasión es la actividad física y la
         naturaleza. Soy Profesora de Educación Física. Esto me aporta un gran
@@ -33,7 +30,7 @@ const About = () => {
         tecnologia!!!
         <br></br>
         <br></br>
-           Esta Api es mi primer Proyecto creado 100% por mi! Utilizando las
+        Esta Api es mi primer Proyecto creado 100% por mi! Utilizando las
         tecnologías: React, Redux, Node, Express y Sequelize.Me entusiasmo la
         tematica que me toco y di lo mejor para conseguir cada objetivo exigido
         en Henry!!!
@@ -45,15 +42,21 @@ const About = () => {
         <br></br>
         <br></br>
       </p>
-
-      <h1 className={styles.go}>
       <br></br>
 
-        <Link to="/home">Go Api Dogs!</Link>
-      </h1>
-      <br></br>
-      <br></br>
+      <Link to="/home">
+        <br></br>
+        <br></br>
+        <button className={styles.go}>Go App Dogs!</button>
+      </Link>
 
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <hr></hr>
       <div className={styles.social}>
         <h2>
           <a
@@ -72,8 +75,7 @@ const About = () => {
           </a>
         </h2>
       </div>
-
-      <h2>
+      <h2 className={styles.h}>
         Developed by
         <a
           className={styles.yellow}

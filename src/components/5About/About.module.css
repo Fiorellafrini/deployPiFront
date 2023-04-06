@@ -5,16 +5,37 @@
   background-size: cover;
   background-repeat: no-repeat;
   background-color: rgba(0, 0, 0, 0.452);
-  height: fit-content;
-
+  /* height: fit-content; */
+  height: 900px;
 }
-.go{
-  font-size: 30px;
+.go {
+  font-size: 20px;
+  cursor: pointer;
 }
 .yellow {
   color: #9729b3;
+  font-size: 20px;
+}
+.h {
+  font-size: 15px;
 }
 
+.go {
+  background: #e7a62d44;
+  border-color: #df47d2;
+  padding: 15px 25px 15px 25px;
+  font-size: 20px;
+  color: rgb(0, 0, 0);
+  margin-bottom: 20px;
+  margin-left: 5px;
+  transition: all ease-in-out 0.2s;
+  border-radius: 50%;
+}
+
+.go:hover {
+  background: rgba(229, 122, 250, 0.874);
+  cursor: pointer;
+}
 .red {
   color: #df4759;
 }
@@ -25,39 +46,36 @@
   margin-left: 1.5rem;
 }
 
-  .social a img {
-    width: 45px;
-    height: 45px;
-  }
-  
-  .p{
-    position: relative;
-    padding: 70px;
-    background-color: rgba(86, 17, 88, 0.219);
-    height: 590px;
-    display: inline-block;
-    top: 40px;
-    width: 590px;
-    border-radius: 5px;
-    font-size: 20px;
-    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+.social a img {
+  width: 30px;
+  height: 30px;
+}
+
+.p {
+  position: relative;
+  padding: 70px;
+  background-color: rgba(86, 17, 88, 0.219);
+  height: 420px;
+  display: inline-block;
+  top: 40px;
+  width: 590px;
+  border-radius: 5px;
+  font-size: 16px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
-    text-align: center;
-    align-items: center;
-    clear: left;
+  text-align: center;
+  align-items: center;
+  clear: left;
   border: 5px solid rgba(0, 0, 0, 0.247);
 
-    /* display: block; */
-    /* margin: auto; */
-;  }
-    
-  
-  .thalita{
-    float:left;
-    width: 10em;
-    height: 15em ;
-    border-radius: 20px;
-    border: 4px solid rgba(0, 0, 0, 0.247);
+  /* display: block; */
+  /* margin: auto; */
+}
 
-  }
-  
+.thalita {
+  float: left;
+  width: 10em;
+  height: 15em;
+  border-radius: 20px;
+  border: 4px solid rgba(0, 0, 0, 0.247);
+}
