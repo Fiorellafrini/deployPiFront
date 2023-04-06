@@ -1,0 +1,13 @@
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(500px, 500px));
+  justify-content: center;
+  margin-top: 22px;
+height: fit-content;
+}
+
+.gif{
+  width: 250px;
+  height: 250px;
+ margin-top: 20%;
+}

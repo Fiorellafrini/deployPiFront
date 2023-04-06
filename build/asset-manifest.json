@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d7f7b0e2.chunk.css",
+    "main.js": "/static/js/main.6668d593.chunk.js",
+    "main.js.map": "/static/js/main.6668d593.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.58a717fa.js",
+    "runtime-main.js.map": "/static/js/runtime-main.58a717fa.js.map",
+    "static/js/2.70ec7c34.chunk.js": "/static/js/2.70ec7c34.chunk.js",
+    "static/js/2.70ec7c34.chunk.js.map": "/static/js/2.70ec7c34.chunk.js.map",
+    "static/js/3.963b3405.chunk.js": "/static/js/3.963b3405.chunk.js",
+    "static/js/3.963b3405.chunk.js.map": "/static/js/3.963b3405.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.d7f7b0e2.chunk.css.map": "/static/css/main.d7f7b0e2.chunk.css.map",
+    "static/js/2.70ec7c34.chunk.js.LICENSE.txt": "/static/js/2.70ec7c34.chunk.js.LICENSE.txt",
+    "static/media/Card.module.css": "/static/media/SimpleThread_PERSONAL_USE_ONLY.0f97e53e.otf",
+    "static/media/i4.a0e53f19.png": "/static/media/i4.a0e53f19.png",
+    "static/media/i9.e25dc13d.png": "/static/media/i9.e25dc13d.png",
+    "static/media/li.668fe687.png": "/static/media/li.668fe687.png",
+    "static/media/loa.4d75764d.gif": "/static/media/loa.4d75764d.gif",
+    "static/media/thalita.1d7911ea.jpg": "/static/media/thalita.1d7911ea.jpg",
+    "static/media/video1.2ee57f0a.mp4": "/static/media/video1.2ee57f0a.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58a717fa.js",
+    "static/js/2.70ec7c34.chunk.js",
+    "static/css/main.d7f7b0e2.chunk.css",
+    "static/js/main.6668d593.chunk.js"
+  ]
+}
