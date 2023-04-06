@@ -1,12 +1,12 @@
 .bodynav {
   background-color: rgb(123, 123, 123);
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding-top: 2px;
+  padding-bottom: 14px;
   background-attachment: fixed;
 }
 
 .b1 button {
-  font-size: 25px;
+  font-size: 15px;
   text-decoration: none;
   background-color: #ffffff00;
   border: none;
@@ -28,7 +28,7 @@
 
 .b2 button {
   /* letter-spacing: 2px; */
-  font-size: 25px;
+  font-size: 15px;
   text-decoration: none;
   background-color: #ffffff00;
   border: none;
@@ -39,7 +39,7 @@
   border-radius: 2px;
   display: flex;
   position: absolute;
-  margin-left: 60em;
+  margin-left: 77em;
   align-items: center;
 }
 
@@ -53,13 +53,7 @@
 button img {
   max-width: 90px;
   max-height: 90px;
-  margin-right: 8px;
-
-  /* 
-  max-width: 90px;
-  max-height: 90px;
-  display: flex;
-  position:sticky */
+  margin-right: 10px;
 }
 
 /*    

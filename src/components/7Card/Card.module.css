@@ -1,19 +1,19 @@
 .name {
   font-family: "fontnew1";
   color: rgb(0, 0, 0);
-  font-size: 45px;
+  font-size: 35px;
 }
 
 .temp {
   font-family: "fontnew2";
   color: rgb(3, 2, 2);
-  font-size: 25px;
+  font-size: 20px;
 }
 
 .wei {
   font-family: "fontnew2";
   color: rgb(3, 2, 2);
-  font-size: 25px;
+  font-size: 20px;
 }
 
 @font-face {
@@ -44,8 +44,8 @@
 }
 
 .card img {
-  width: 25rem;
-  height: 20rem;
+  width: 20rem;
+  height: 15rem;
 }
 
 .button{

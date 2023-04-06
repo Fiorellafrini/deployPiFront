@@ -1,14 +1,14 @@
 .container {
   justify-content: center;
   position: relative;
-  margin-top: 20px;
-  margin-bottom: 35px;
+  margin-top: 10px;
+  margin-bottom: 20px;
   align-items: center;
   display: flex;
 }
 
 .paginadoContainer {
-  margin-right: 35px;
+  margin-right: 30px;
 }
 
 .paginadoContainer .itens {
@@ -17,14 +17,14 @@
 
 .paginadoContainer .itens .arrow {
   padding: 6px 8px;
-  min-width: 32px;
+  min-width: 20px;
   min-height: 18px;
   background-color: rgba(255, 255, 255, 0);
   margin-bottom: 5px;
   border: 1px solid rgba(255, 203, 114, 0);
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
-  font-size: 12px;
+  font-size: 10px;
   font-weight: 600;
   color: #000000;
   display: inline-block;
@@ -42,11 +42,11 @@
   background-color: blueviolet;
   color: rgb(22, 21, 22);
   padding: 5px 6px;
-  min-width: 32px;
+  min-width: 30px;
   min-height: 18px;
   margin-bottom: 5px;
-  font-size: 16px;
-  font-weight: 600;
+  font-size: 14px;
+  font-weight: 500px;
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   display: inline-block;

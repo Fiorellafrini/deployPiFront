@@ -107,7 +107,7 @@ const Create = () => {
   const nameExist = (name) => {
     const nameExist = allDogs.find((elemnt) => elemnt.name === name);
     if (nameExist) {
-      alert("pokemon alredy exist, Change the name");
+      alert("Dogs alredy exist, Change the name");
       setInput({
         ...input,
         name: "",

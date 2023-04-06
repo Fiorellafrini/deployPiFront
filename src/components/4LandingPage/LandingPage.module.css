@@ -1,7 +1,7 @@
 .video {
   position: fixed;
-  height: 900px;
-  top: 60%;
+  height: 720px;
+  top: 50%;
   left: 50%;
   transform: translateX(-50%) translateY(-50%);
   z-index: -1;
@@ -10,19 +10,19 @@
 .title1 {
   font-family: "fontnew";
   color: rgb(241, 241, 226);
-  font-size: 55px;
+  font-size: 40px;
   float: right;
   padding-top: 0em;
-  padding-right: 1em;
+  padding-right: 2em;
 }
 
 .title2 {
   font-family: "fontnew";
   color: rgb(255, 255, 255);
   display: flex;
-  font-size: 45px;
+  font-size: 35px;
   float: right;
-  padding-right: 2em;
+  padding-right: 3em;
   padding-left: 25em;
   /* padding-top: 0em; */
   /* padding-bottom: 90em; */
@@ -38,7 +38,7 @@
 .button button {
   color: #fdfdfd;
   letter-spacing: 2px;
-  font-size: 25px;
+  font-size: 15px;
   text-decoration: none;
   background-color: #ffffff00;
   border: none;
@@ -61,16 +61,16 @@
   src: url("../13Extras/SimpleThread_PERSONAL_USE_ONLY.otf");
 }
 
-.yellow{
-  display:inline-block; 
+.yellow {
+  display: inline-block;
   background-color: #fdfdfd3f;
   border-radius: 10px;
   /* position: relative; */
-margin-top: 409px;
-margin-left: 200px;
-font-size: 20px;
+  margin-top: 382px;
+  margin-left: 200px;
+  font-size: 15px;
 }
 
-.letras{
+.letras {
   color: rgb(55, 52, 56);
 }

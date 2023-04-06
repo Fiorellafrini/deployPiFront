@@ -54,6 +54,7 @@ export default function Filters() {
   }
 
   return (
+    <div className={style.filter}>
     <div className={style.container}>
       <select
         name="filterTemperament"
@@ -119,6 +120,7 @@ export default function Filters() {
         <option value="dec"> + Weight</option>
       </select>
 
+    </div>
     </div>
   );
 }
